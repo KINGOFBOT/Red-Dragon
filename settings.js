@@ -11,7 +11,38 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `📤╔══════════════⦂⦁▹➤
+🌹⃟̥̥̥̥̄̄̄̄̄🍃𝑾𝑬𝑳𝑪𝑶𝑴𝑬🌹⃟̥̥̥̥̄̄̄̄̄🍃
+╠══════════════⦂⦁▹➤
+❖ *𝐈 𝐀𝐌 𝐇𝐄𝐋𝐏𝐈𝐍𝐆 𝐀𝐍𝐃 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓...🍃⃝̳̳̅̅̅̅💎*
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ 
+╠══════════════⦂⦁▹➤
+🌼⃝̳̲🍃̑̑🄾🅆🄽🄴🅁 ⦂⦁➤
+-🍃⃟̳̳🌺☵ *Rukka* ☵🌺̅̅̅⃟🍃
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ 
+╠══════════════⦂⦁▹➤
+❯ *BOT අනවශ්‍ය වැඩවලට භාවිතා නොකරන්න.🚫🔞*
+
+❯ *DON`T DISEPENSABLE WORK TO USE BOT🚫🔞*
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ
+╠══════════════⦂⦁▹➤
+❯ *කමාන්ඩ් ගැන දැන ගන්න [ .menu ] එවන්න.*🌼̠̠̠⃝💎̥̥̥
+╠══════════════⦂⦁▹➤
+❯ *කමාන්ඩ් දෙන්න කලින් ( . ) එකක් ටයිප් කරන්න.*💎̥̥̥̏̅̅̅̅̅⃟🍭
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ 
+╠══════════════⦂⦁▹➤
+╠══════════════⦂⦁▹➤
+🔥 ⃝⃘🍃💎⃝♡꧂ᘝᘞ
+╠══════════════⦂⦁▹➤
+╭──➤ ᴍᴀᴅᴇ ʙʏ➤────⦂⦁▹➣
+ *king Bot ⚔️* 
+╰──────────────⦂⦁▹➣
+
+*--🌹 *king* *Bot* 🌹--* 😇
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -29,26 +60,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94702287970'] // owner number
+global.ownername = "😎Rukshan❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://telegra.ph/file/1235795645f7c7449524e.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
+global.owner = ['+94702287970']
+global.ownertag = '+94702287970' //your tag number
 global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
@@ -56,7 +87,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94702287970'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
